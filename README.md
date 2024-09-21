@@ -21,7 +21,7 @@ Welcome to Wander Nest! This is a travel and tour website designed to inspire ad
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/wandernest.git
+   git clone [https://github.com/yourusername/wandernest](https://github.com/Mahad-Zubair/WanderNest---Travel-Tour-Website).git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -45,7 +45,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For inquiries or feedback, feel free to reach out via email at [your-email@example.com].
+For inquiries or feedback, feel free to reach out via email at [mahadzubair0@gmail.com].
 
 ---
 
