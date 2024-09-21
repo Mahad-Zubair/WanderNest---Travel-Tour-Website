@@ -57,16 +57,6 @@ Check out the live version of the website at [WanderNest](#).
     ```
     or simply drag and drop the file into a browser window.
 
-## Screenshots
-
-Here are a few snapshots of the WanderNest website:
-
-- **Home Page**:
-  ![Home Page](img/home_screenshot.png)
-
-- **Destinations Section**:
-  ![Destinations](img/destinations_screenshot.png)
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
@@ -80,7 +70,6 @@ Feel free to contribute by submitting issues or pull requests. Any enhancements 
 For any inquiries, you can reach out to me via:
 
 - **Email**: mahadzubair0@gmail.com
-- **Phone**: +923090078601
 
 ---
 
